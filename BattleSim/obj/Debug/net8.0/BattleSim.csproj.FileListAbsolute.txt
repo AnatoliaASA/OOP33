@@ -1,0 +1,14 @@
+D:\OOP33\BattleSim\bin\Debug\net8.0\BattleSim.exe
+D:\OOP33\BattleSim\bin\Debug\net8.0\BattleSim.deps.json
+D:\OOP33\BattleSim\bin\Debug\net8.0\BattleSim.runtimeconfig.json
+D:\OOP33\BattleSim\bin\Debug\net8.0\BattleSim.dll
+D:\OOP33\BattleSim\bin\Debug\net8.0\BattleSim.pdb
+D:\OOP33\BattleSim\obj\Debug\net8.0\BattleSim.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP33\BattleSim\obj\Debug\net8.0\BattleSim.AssemblyInfoInputs.cache
+D:\OOP33\BattleSim\obj\Debug\net8.0\BattleSim.AssemblyInfo.cs
+D:\OOP33\BattleSim\obj\Debug\net8.0\BattleSim.csproj.CoreCompileInputs.cache
+D:\OOP33\BattleSim\obj\Debug\net8.0\BattleSim.dll
+D:\OOP33\BattleSim\obj\Debug\net8.0\refint\BattleSim.dll
+D:\OOP33\BattleSim\obj\Debug\net8.0\BattleSim.pdb
+D:\OOP33\BattleSim\obj\Debug\net8.0\BattleSim.genruntimeconfig.cache
+D:\OOP33\BattleSim\obj\Debug\net8.0\ref\BattleSim.dll
